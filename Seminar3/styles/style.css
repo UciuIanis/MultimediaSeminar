@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+
+#board{
+    padding: 5px;
+}
+
+.boardRow{
+    display: flex;
+
+}
+
+.cell{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 5px;
+    background-color: #ccc;
+    border-radius: 5px;
+    text-align: center;
+    display: block;
+}
