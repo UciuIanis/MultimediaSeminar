@@ -1,0 +1,12 @@
+#canvasContainer {
+    display: flex;
+    justify-content: center;
+}
+
+#canvas {
+    border: 5px solid purple;
+}
+
+#alert {
+    display: none;
+}
