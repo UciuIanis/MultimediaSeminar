@@ -1,0 +1,11 @@
+#canvasContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+#canvas{
+    border: 2px solid green;
+}
+#alert{
+    display: none;
+}
